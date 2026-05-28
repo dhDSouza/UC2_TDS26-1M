@@ -141,7 +141,7 @@ npm install readline-sync
 
 ---
 
-# 📄 Utilizando o Prompt
+# 📄 Utilizando o Readline
 
 ```js
 const rl = require('readline-sync');
@@ -169,7 +169,7 @@ Precisamos converter.
 
 ---
 
-## Exemplo com `Number()`
+## Exemplo com `number`
 
 ```js
 const rl = require('readline-sync');
