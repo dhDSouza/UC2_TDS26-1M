@@ -37,6 +37,7 @@ Os operadores servem para realizar cálculos.
 |    `*`   | Multiplicação    |
 |    `/`   | Divisão          |
 |    `%`   | Resto da divisão |
+|    `**`  | Potenciação      |
 
 ---
 
