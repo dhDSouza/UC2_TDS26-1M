@@ -489,6 +489,8 @@ Solicite um número de 1 a 12.
 
 Mostre o mês correspondente.
 
+Caso seja inválido, informe ao usuário.
+
 ---
 
 ## Exercício 3 — Calculadora
@@ -513,17 +515,7 @@ Na divisão, trate o caso de divisão por zero.
 
 ---
 
-## Exercício 4 — Mês do Ano
-
-Solicite um número entre 1 e 12.
-
-Mostre o nome do mês correspondente.
-
-Caso seja inválido, informe ao usuário.
-
----
-
-## Exercício 5 — Classificação de Linguagens
+## Exercício 4 — Classificação de Linguagens
 
 Solicite uma opção:
 
